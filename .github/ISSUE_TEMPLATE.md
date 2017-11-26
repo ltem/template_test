@@ -1,7 +1,7 @@
- <!--
+<!--
   This is a guideline, which shall help to write enhancement requests or bug reports.
   Fill in the placeholders below. Delete any headings and placeholders that you do not use.
-  Text surrounded by these "\<!--" "--\>" won't be shown in the final comment (hint: use the preview)
+  Text surrounded by these "<!-- -->" won't be shown in the final comment (hint: use the preview)
 -->
 <!--
   Before you start check if a similar request/bug report already exists in the github issue tracker and comment there.
