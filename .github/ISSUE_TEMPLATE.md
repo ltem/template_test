@@ -13,16 +13,15 @@ When submitting a feature or enhancement request:
 
 When submitting a bug report, please follow the template below:
 
-### System Information
+### Issue Summary
+<!-- Explanation of the issue. Expectation vs. actual behavior. -->
+... ... ...
+
+#### System Information
 - **Operating System:** [e.g. Windows 10, Mac OS 10.12, Ubuntu 16.04, ...]
 - **.NET / Mono Version:** [e.g. .NET 4.7.1, Mono 4.6.2, ...]
 - **OpenRA Version:** [e.g. release-20171014, playtest-20180208, ...]
 - **Mod:** [e.g. Red Alert, Tiberian Dawn, Dune2000, ...]
-
-
-### Issue Summary
-<!-- Explanation of the issue. Expectation vs. actual behavior. -->
-... ... ...
 
 #### Additional Information:
 - Steps to reproduce
