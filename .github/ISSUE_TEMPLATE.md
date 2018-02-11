@@ -35,8 +35,8 @@ When submitting a bug report, please follow the template below:
 - Logs
 <!-- If you have a log (e.g. debug.log, exception.log), zip and attach it. -->
 
-- OpenRA Replays (When does the issue appear? [e.g. 10:33])
-<!-- You have to zip it before you can attach it -->
+- OpenRA Replays
+<!-- You have to zip it before you can attach it. When does the issue appear [e.g. 10:33]? -->
 
 - Screenshots & Videos
 <!-- You should be able to attach screenshots by drag&drop. Videos need to be uploaded to an external platform (e.g. https://www.youtube.com, https://www.dropbox.com) -->
