@@ -1,9 +1,7 @@
 <!--
   This is a guideline, which shall help to write enhancement requests or bug reports.
   Fill in the placeholders below. Delete any headings and placeholders that you do not use.
-  Text surrounded by these "<!-- -->" won't be shown in the final comment (hint: use the preview)
--->
-<!--
+
   Before you start check if a similar request/bug report already exists in the github issue tracker and comment there.
 -->
 
@@ -17,9 +15,9 @@ When submitting a bug report, please follow the template below:
 
 ### System Information
 - **Operating System:** [e.g. Windows 10, Mac OS 10.12, Ubuntu 16.04, ...]
-- **.NET / Mono Version:** [e.g. .net 4.5.2, Mono 3.2.8, ...]
-- **OpenRA Version:** [e.g. release-20170527, playtest-20170722, ...]
-- **Mod:** [e.g. Red Alert, Tiberian Dawn, ...]
+- **.NET / Mono Version:** [e.g. .NET 4.7.1, Mono 4.6.2, ...]
+- **OpenRA Version:** [e.g. release-20171014, playtest-20180208, ...] 
+- **Mod:** [e.g. Red Alert, Tiberian Dawn, Dune2000, ...]
 
 
 ### Issue Summary
