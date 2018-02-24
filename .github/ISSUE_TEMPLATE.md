@@ -3,7 +3,6 @@
   Fill in the placeholders below. Delete any headings and placeholders that you do not use.
 
   Before you start check if a similar request/bug report already exists in this Github issue tracker and comment there.
--->
 
 When submitting a feature or enhancement request:
 
@@ -12,6 +11,7 @@ When submitting a feature or enhancement request:
 
 
 When submitting a bug report, please follow the template below:
+-->
 
 ### Issue Summary
 <!-- Explanation of the issue. Expectation vs. actual behavior. -->
@@ -20,16 +20,14 @@ When submitting a bug report, please follow the template below:
 #### System Information
 - **Operating System:** [e.g. Windows 10, Mac OS 10.12, Ubuntu 16.04, ...]
 - **.NET / Mono Version:** [e.g. .NET 4.7.1, Mono 4.6.2, ...]
-- **OpenRA Version:** [e.g. release-20171014, playtest-20180208, ...]
+- **OpenRA Version:** [e.g. release-20180218, playtest-20180208, ...]
 - **Mod:** [e.g. Red Alert, Tiberian Dawn, Dune2000, ...]
 
 #### Additional Information:
 - Steps to reproduce
-<!--
-1. Step
-2. Step
-3. ...
--->
+	1. Step
+	2. Step
+	3. ...
 
 - Logs
 <!-- If you have a log (e.g. debug.log, exception.log), zip and attach it. -->
